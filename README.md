@@ -7,7 +7,8 @@ The associated data and notebook scripts could be found at: https://zenodo.org/r
 Here are the Python code usage example:
 
 
-```from rpca.RPCA import RPCA
+```
+from rpca.RPCA import RPCA
 
 factor_L2 = (1/0.01)**2
 factor_L1 = (1/0.01)**2
