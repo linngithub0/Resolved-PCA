@@ -2,7 +2,7 @@
 a Resolved PSF reconstruction method for undersampled images
 
 
-The associated data and notebook scripts could be found at: https://nadc.china-vo.org/res/r101915/
+The associated data and notebook scripts could be found at: https://zenodo.org/records/23208591
 
 Here are the Python code usage example:
 
